@@ -2,7 +2,9 @@
 
 This project presents an actuarial analysis of claim frequency in an automobile insurance portfolio based on the **French Motor Claims Dataset (freMTPL2freq)**.
 
-The original dataset is large and computationally demanding. To ensure efficient handling and visualization in Excel, a **representative subset of the data** was used while preserving the statistical structure of the portfolio. This allows practical actuarial exploration without compromising analytical validity.
+The original dataset is large-scale and exceeds practical size limits for direct handling in Excel and for repository storage. For this reason, a **reduced and representative sample of the data** was used in this project. This sample preserves the statistical structure of the portfolio while enabling efficient processing, visualization, and dashboard development.
+
+A small sample of the dataset is included in this repository for reference purposes. The full dataset can be accessed from the original public source.
 
 The objective of the project is to analyze how key risk factors affect claim frequency and to support **data-driven decisions in pricing, underwriting, and portfolio risk management**.
 
@@ -47,3 +49,4 @@ All implemented using **Excel-based business intelligence tools** for real-world
 ## 📊 Dashboard Preview
 
 ![Actuarial-Claims-Frequency-Analysis-Auto-Portfolio](Final%20Dashboard%20Result.png)
+
